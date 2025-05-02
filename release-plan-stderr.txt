@@ -1,0 +1,10 @@
+# Unlabeled Changes
+
+* `ember-data-factory-guy`
+  * [#505](https://github.com/adopted-ember-addons/ember-data-factory-guy/pull/505) refactor: avoid automagic require, use manual imports ([@Techn1x](https://github.com/Techn1x))
+  * [#504](https://github.com/adopted-ember-addons/ember-data-factory-guy/pull/504) chore: add `@ember/string` peerDependency ([@Techn1x](https://github.com/Techn1x))
+  * [#507](https://github.com/adopted-ember-addons/ember-data-factory-guy/pull/507) test: tests working with ember 4.12 and ember-data 3.28 + embroider try scenarios ([@Techn1x](https://github.com/Techn1x))
+  * [#503](https://github.com/adopted-ember-addons/ember-data-factory-guy/pull/503) chore: drop AdapterFetch, ember-fetch, ember-django-adapter ([@Techn1x](https://github.com/Techn1x))
+
+
+*Cannot plan release until the above changes are labeled*.
